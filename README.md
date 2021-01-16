@@ -31,5 +31,7 @@ Line 84: url =  "C://Exodus//Y//Pythonian//covid19//Map1.html"
 **Run the script**
 
 ```
+The only file you actually need is the covidTrack.py file. To run it:
+
 python covidTrack.py
 ```
