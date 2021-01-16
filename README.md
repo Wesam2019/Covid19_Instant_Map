@@ -30,8 +30,6 @@ Line 84: url =  "C://Exodus//Y//Pythonian//covid19//Map1.html"
 
 **Run the script**
 
-Make sure to activate the virtual environment beforehand
-
 ```
 python covidTrack.py
 ```
